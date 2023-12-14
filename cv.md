@@ -1,5 +1,7 @@
  Vladislav Gerasimenko
-
+ 
+ ![Vladislav Gerasimenko](https://github.com/Be4niy/curriculumVitae/assets/119427344/d08372fa-e332-4af4-a2a2-1c01d63e5216)
+ 
 ## Contact information:
 * Phone: +375447764098
 * [*Telegram*](https://t.me/aaVladik)
